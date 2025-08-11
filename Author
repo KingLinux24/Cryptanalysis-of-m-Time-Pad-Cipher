@@ -1,0 +1,14 @@
+
+---
+
+## **3️⃣ Publish to GitHub**
+If you already have Git installed:
+
+```bash
+cd path/to/cryptography-lab-assignment3
+git init
+git add .
+git commit -m "Added Cryptography Lab Assignment 3 - m-Time pad analysis"
+git branch -M main
+git remote add origin https://github.com/YOUR_USERNAME/cryptography-lab-assignment3.git
+git push -u origin main
