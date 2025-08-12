@@ -15,5 +15,9 @@ This project analyzes a set of ciphertexts encrypted using an m-time pad (where 
 
 ### **Usage**
 Run:
-```bash
-python assignment3_mtimepad.py
+`bash<br>
+python assignment3_mtimepad.py`
+
+
+<img width="1465" height="565" alt="image" src="https://github.com/user-attachments/assets/463b6a8e-4eb3-4ef3-8cf5-2771abd5eed9" />
+
